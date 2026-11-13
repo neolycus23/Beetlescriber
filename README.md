@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Beetlescriber.png" width="220" alt="Beetlescriber logo">
+</p>
+
 # Beetlescriber
 **A standalone application for preparing taxonomic descriptions of beetle genera and species.**
 
